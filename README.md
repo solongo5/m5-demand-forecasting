@@ -1,4 +1,17 @@
+<div align="center">
+
 # Demand Forecasting Platform: M5 Walmart Dataset
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.9-orange?logo=scikit-learn)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-ML-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+</div>#
 
 End-to-end demand forecasting pipeline built on real Walmart sales data, combining classical baselines, tuned gradient boosting, and an AI-powered insight layer using the Claude API.
 
